@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about coding
 - 📫 How to reach me: prakarshjhajharia@gmail.com
 - ⚡ Fun fact: I like to play Baddminton
--->
