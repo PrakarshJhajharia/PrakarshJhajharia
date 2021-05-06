@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Prakarsh Jhajharia
+### Hi there 👋  My name is Prakarsh Jhajharia
 
 <!--
 **PrakarshJhajharia/PrakarshJhajharia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
