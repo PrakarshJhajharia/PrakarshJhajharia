@@ -15,14 +15,17 @@ Here are some ideas to get you started:
 <table >
   <td>
 <img align="left" alt="python" width="60px" src="icons/python.svg" />
+<img align="left" alt="django" width="60px" src="icons/django.webp" />
 <img align="left" alt="html" width="60px" src="icons/html.svg" />
 <img align="left" alt="css" width="60px" src="icons/css.svg" />
+<img align="left" alt="javascript" width="50px" src="icons/javascript.svg" />
 <img align="left" alt="c" width="60px" src="icons/c.svg" />
+<img align="left" alt="c++" width="55px" src="icons/c++.png" />
 <img align="left" alt="java" width="60px" src="icons/java.svg" />
-<img align="left" alt="django" width="60px" src="icons/django.webp" />
-<img align="left" alt="javascript" width="60px" src="icons/javascript.svg" />
-<img align="left" alt="c++" width="60px" src="icons/c++.png" />
-<img align="left" alt="bootstrap" width="60px" src="icons/bootstrap.png" />
+
+
+
+<img align="left" alt="bootstrap" width="50px" src="icons/bootstrap.png" />
   </td>
 </table>
 <br />
