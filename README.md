@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: prakarshjhajharia@gmail.com
 - ⚡ Fun fact: I like to play Baddminton
 <br />
-### Skills
+<h3>Skills</h3>
 <table >
   <td>
 <img align="left" alt="python" width="40px" src="icons/python.svg" />
