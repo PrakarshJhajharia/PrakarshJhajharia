@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 <h3>Skills</h3>
 <table >
   <td>
-<img align="left" alt="python" width="60px" src="icons/python.svg" />
 <img align="left" alt="django" width="60px" src="icons/django.webp" />
+<img align="left" alt="python" width="60px" src="icons/python.svg" />
 <img align="left" alt="html" width="60px" src="icons/html.svg" />
 <img align="left" alt="css" width="60px" src="icons/css.svg" />
 <img align="left" alt="javascript" width="50px" src="icons/javascript.svg" />
